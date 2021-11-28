@@ -1,6 +1,4 @@
-# CO2 expressed as a mole fraction in dry air, micromol/mol, abbreviated as ppm
-#
-# year     mean      unc
+  year     mean      unc
   1959   315.98     0.12
   1960   316.91     0.12
   1961   317.64     0.12
